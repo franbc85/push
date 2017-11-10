@@ -18,5 +18,8 @@
   "homepage": "https://github.com/franbc85/push#readme",
   "dependencies": {
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "express": "^4.16.2"
   }
 }

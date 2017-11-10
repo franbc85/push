@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/franbc85/push#readme",
   "dependencies": {
-    "express": "4.16.2"
+    "express": "4.16.2",
+    "web-push": "^3.2.4"
   },
   "devDependencies": {
     "express": "4.16.2",

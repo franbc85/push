@@ -1,0 +1,22 @@
+{
+  "name": "push",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franbc85/push.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franbc85/push/issues"
+  },
+  "homepage": "https://github.com/franbc85/push#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
